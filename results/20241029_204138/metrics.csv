@@ -1,0 +1,3 @@
+metric,train,test
+ROC-AUC,1.0,0.9125450408493873
+Average Precision,1.0,0.8744335077682825

@@ -1,0 +1,9 @@
+{
+  "nodes_file": "data/Nodes.csv",
+  "edges_file": "data/Edges.csv",
+  "ground_truth_file": "data/Ground_Truth.csv",
+  "embeddings_file": "drug_disease_embeddings.pkl",
+  "embedding_dim": 128,
+  "test_size": 0.2,
+  "timestamp": "20241029_204138"
+}
